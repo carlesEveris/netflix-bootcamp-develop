@@ -343,3 +343,4 @@ gradle-app.setting
 **/build/
 reports/cpd-report.txt
 .pmd
+docs/~$Hibernate presentation V1.pptx
